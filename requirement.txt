@@ -1,0 +1,5 @@
+apache-airflow
+apache-airflow-providers-postgres
+pandas
+matplotlib
+psycopg2-binary
